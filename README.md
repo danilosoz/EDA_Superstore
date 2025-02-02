@@ -12,4 +12,4 @@ Este projeto realiza uma análise exploratória de dados (EDA) do dataset **Supe
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/EDA_Superstore.git
+   git clone https://github.com/danilosoz/EDA_Superstore.git
